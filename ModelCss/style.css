@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+    color: black;
+    transition: 0.7s;
+}
+section{
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 3px;
+    margin: auto;
+    margin-top: 40vh;
+    width: 500px;
+    box-shadow: 1px 1px 3px black;
+    text-align: center;
+}
+
+.darkmode{
+    background-color: #23232e;
+    transition: 0.7s;
+}
+
+input#botao{
+    cursor: pointer;
+    padding: 10px;
+    color: white;
+    background-color:#23232e;
+    font-family: monospace;
+    border: none;
+    width: 86px;
+    border-radius: 15px;
+}
